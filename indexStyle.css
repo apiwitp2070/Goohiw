@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+
+center {
+	padding-top: 32px;
+}
+
+input {
+	padding-top: 4px;
+	padding-bottom: 4px;
+	padding-left: 8px;
+	padding-right: 8px;
+	border-color: black;
+	border-radius: 8px;
+}
+
+.search {
+	transition-duration: 300ms;
+	background-color: white;
+	color: black;
+}
+
+.search:hover {
+	transition-duration: 300ms;
+	background-color: black;
+	color: white;
+}
+
+.result {
+	display: flex;
+	flex-direction: column;
+}
