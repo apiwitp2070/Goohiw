@@ -5,7 +5,7 @@
 # Goohiw
 Term project for Web Information and Retrieval subject.
 
-A simple search engine develop with jsp file and lucene, with eclipse as an IDE, purposingly for searching about foods. This project combine knowledge of indexing database for search engine with rerank and build UI with tailwind CSS.
+A ~~Google clone~~ simple search engine develop with jsp file and lucene, with eclipse as an IDE, purposingly for searching about foods. This project combine knowledge of indexing database for search engine with rerank and build UI with tailwind CSS.
 
 By Team Lucy Ron Mark
 
