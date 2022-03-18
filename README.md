@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/laevatein2070/Goohiw/blob/main/logo.png?raw=true alt=Goohiw">
+</p>
+
 # Goohiw
 Term project for Web Information and Retrieval subject.
 
