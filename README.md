@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/laevatein2070/Goohiw/blob/main/logo.png?raw=true alt=Goohiw">
+  <img src="https://github.com/apiwitp2070/Goohiw/blob/main/logo.png?raw=true alt=Goohiw">
 </p>
 
 # Goohiw
